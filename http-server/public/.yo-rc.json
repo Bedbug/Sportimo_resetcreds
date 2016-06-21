@@ -15,7 +15,7 @@
       },
       "skip-cache": false,
       "skip-install": false,
-      "sample": "todoMVC",
+      "sample": "techs",
       "router": "uirouter"
     }
   }
