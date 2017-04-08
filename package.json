@@ -51,6 +51,15 @@
     "bower": "bower",
     "start": "gulp serve"
   },
+   "dependencies": {    
+    "colors": "1.0.3",
+    "ecstatic": "~0.5.6",
+    "mkdirp": "^0.5.1",
+    "opener": "~1.4.0",
+    "optimist": "0.6.x",
+    "portfinder": "0.2.x",
+    "union": "~0.4.3"
+  },
   "eslintConfig": {
     "globals": {
       "expect": true,
